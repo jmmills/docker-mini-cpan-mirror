@@ -1,4 +1,4 @@
-FROM jmmills/mini-cpan-mirror-initial:latest
+FROM jmmills/mini-cpan-mirror-initial
 MAINTAINER = Jason M. Mills <jmmills@cpan.org>
 ENV DEBIAN_FRONTEND noninteractive
 
